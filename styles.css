@@ -1,0 +1,81 @@
+body {
+    background-color: #302e2e;
+    color:#ffffff;
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+.avatar {
+    width: 500px;
+    border-radius: 10px;
+    
+}
+.info p {
+    color: rgb(182, 178, 178);
+    margin: 0;
+    font-weight:bold ;
+}
+.info {
+    display: flex;
+}
+.info-text {
+    margin-left: 100px;
+    
+}
+
+.social {
+    /*background-color: gray;*/
+    padding: 10px;
+
+}
+
+.container {
+    max-width: 90%;
+    margin: auto;
+    padding-top: 20px;
+    
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.card {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.bg-yellow {
+    background-color:#928f8f ;
+}
+.bg-green {
+    background-color: #c9bd1983 ;
+}
+.bg-red {
+    background-color: #1264fccb;
+}
+.contact h2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.contact h4{
+    text-align: center;
+}
+.form-group label {
+    display: block;
+}
+.btn {
+    background-color: rgb(14, 159, 255);
+    color: white;
+    padding: 15px 45px;
+    border:none;
+    
+}
